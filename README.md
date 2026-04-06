@@ -17,7 +17,7 @@ This project analyzes customer behavior to uncover patterns in purchasing, reven
 - Revenue contribution by age group
 
 ## 📈 Dashboard
-![Dashboard](dashboard(2).png)
+![Dashboard](dashboard.png)
 The Power BI dashboard provides interactive visualizations of key metrics such as:
 - Total revenue
 - Customer segmentation
